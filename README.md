@@ -1,3 +1,14 @@
+## Edited README
+
+This is a fork of the GNU regression, econometrics and time-series library.
+
+- [Homepage](http://gretl.sourceforge.net/)
+- [Source](https://sourceforge.net/p/gretl/git/ci/master/tree/)
+- [User's Manual](http://gretl.sourceforge.net/gretl-help/gretl-guide.pdf)
+
+
+## Original README
+
 Gretl (GNU regression, econometrics and time-series library) comprises
 libgretl, a shared library which provides various functions relating to
 econometric estimation, a command-line client program and a gui client,
